@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Fruitscape</string>
+
+    <string name="stage_1">Anthracnose Stage 1</string>
+    <string name="stage_2">Anthracnose Stage 2</string>
+    <string name="healthy">Healthy</string>
+
+    <string name="result_string"><b>Predicted class : %1$s</b>\n<i>Confidence : %2$s</i>\n\n<b>Actual class : %3$s.</b></string>
+    <string name="classify_label">Classify</string>
+    <string name="choose_image_label">Choose Image</string>
+</resources>

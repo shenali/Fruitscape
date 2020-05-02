@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "216331001519",
+    "firebase_url": "https://fruitscape-4f9ee.firebaseio.com",
+    "project_id": "fruitscape-4f9ee",
+    "storage_bucket": "fruitscape-4f9ee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:216331001519:android:c8c2dfc63f4fc88185be5a",
+        "android_client_info": {
+          "package_name": "com.example.fruitscape"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "216331001519-gp9gjalknk88k4ke7jla2urn0u5pf6vq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fruitscape",
+            "certificate_hash": "c844e7fe57845045c8a98e1ebe390a7cd70a78b2"
+          }
+        },
+        {
+          "client_id": "216331001519-adaq41mhvot85tf1rl37elsqne90qhbl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJeXSlZf4De63jAwhCxZrKnzLQWE2xYBk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "216331001519-adaq41mhvot85tf1rl37elsqne90qhbl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
