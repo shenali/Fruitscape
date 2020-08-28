@@ -1,6 +1,5 @@
 package com.example.fruitscape.Adapters;
 
-import android.app.LauncherActivity;
 import android.content.Context;
 import android.view.LayoutInflater;
 import android.view.View;
@@ -12,8 +11,7 @@ import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
 
 import com.example.fruitscape.R;
-import com.example.fruitscape.models.HistoryListItems;
-import com.google.firebase.database.ValueEventListener;
+import com.example.fruitscape.POJOModels.HistoryListItems;
 
 import java.util.List;
 

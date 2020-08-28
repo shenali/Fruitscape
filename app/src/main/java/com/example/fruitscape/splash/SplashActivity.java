@@ -2,7 +2,7 @@ package com.example.fruitscape.splash;
 
 import android.os.Bundle;
 
-import com.example.fruitscape.main.MainActivity;
+import com.example.fruitscape.Main.MainActivity;
 import com.example.fruitscape.R;
 
 import androidx.appcompat.app.AppCompatActivity;
